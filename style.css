@@ -1,0 +1,13 @@
+body
+{
+	background-color: red;
+}
+
+#font
+{
+	width: 900px;	
+	margin:0 auto;
+	background-color: white;
+	font-size: 90px;
+	text-align: center;
+}
