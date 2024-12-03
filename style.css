@@ -5,16 +5,7 @@ body
 
 #base
 {
-	width: 800px;	
-	margin:0 auto;
-	background-color: white;
-	font-size: 70px;
-	text-align: center;
-}
-
-#yes
-{
-	width: 100px;	
+	width: 900px;	
 	margin:0 auto;
 	background-color: white;
 	text-align: center;
